@@ -14,6 +14,8 @@ The aim of the project is to develop an ideal model for determining the possibil
 ### Loading Data ;
 ### Familiarizing with Data ;
 ### Splitting the Data ; 
+![App Screenshot](https://i.imgur.com/PLMf44v.png)
+
 ### Data Preprocessing ; 
 ### Visualizing the data ;
 
