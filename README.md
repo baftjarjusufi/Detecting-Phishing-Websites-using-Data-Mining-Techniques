@@ -12,34 +12,41 @@ The aim of the project is to develop an ideal model for determining the possibil
 ## Features
 
 ### Loading Data ;
+![App Screenshot](https://i.imgur.com/ldxQXnp.png)
+
 ### Familiarizing with Data ;
+![App Screenshot]()
+
 ### Splitting the Data ; 
 ![App Screenshot](https://i.imgur.com/PLMf44v.png)
 
-### Data Preprocessing ; 
+### Data Preprocessing ;
+![App Screenshot]()
+
 ### Visualizing the data ;
+![App Screenshot]()
 
 ### Machine Learning Models & Training :
 
 -Decision Tree
 Decision trees are widely used models for classification and regression tasks. Essentially, they learn a hierarchy of if/else questions, leading to a decision. Learning a decision tree means learning the sequence of if/else questions that gets us to the true answer most quickly.
 
-![App Screenshot](https://i.imgur.com/xO3AaE0.png)
+![App Screenshot]()
 
 -Random Forest Classifier
 Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the mean or average prediction of the individual trees is returned.
 
-![App Screenshot](https://i.imgur.com/FJ0eGss.png)
+![App Screenshot]()
 
 -Multilayer Perceptrons (MLPs): Deep Learning
 The field of artificial neural networks is often just called neural networks or multi-layer perceptrons after perhaps the most useful type of neural network. A perceptron is a single neuron model that was a precursor to larger neural networks.
 
-![App Screenshot](https://i.imgur.com/cvhmQ8V.png)
+![App Screenshot]()
 
 -Bagging Classifier
 A Bagging classifier is an ensemble meta-estimator that fits base classifiers each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction.
 
-![App Screenshot](https://i.imgur.com/eoq8eAe.png)
+![App Screenshot]()
 
 
 ## Technologies Used
