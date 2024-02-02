@@ -11,13 +11,13 @@ The aim of the project is to develop an ideal model for determining the possibil
 
 ## Features
 
-### Loading Data
-### Familiarizing with Data**
-### Splitting the Data**
-### Data Preprocessing **
-### Visualizing the data**
+### Loading Data ;
+### Familiarizing with Data ;
+### Splitting the Data ; 
+### Data Preprocessing ; 
+### Visualizing the data ;
 
-### Machine Learning Models & Training** :
+### Machine Learning Models & Training :
 
 -Random Forest Classifier
 Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the mean or average prediction of the individual trees is returned.
@@ -29,20 +29,13 @@ The field of artificial neural networks is often just called neural networks or 
 A Bagging classifier is an ensemble meta-estimator that fits base classifiers each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction.
 
 
-
-
-
 ## Technologies Used
 
-**Client:** Python, Django, HTML, CSS, Bootstrap , Javascript , Cypress 
-
-**Server:** Node, Hukaru
-
+**Client:** Python
 
 ## Support
 
 For support, email baftjarjj@gmail.com.
-
 
 ## Screenshots
 
