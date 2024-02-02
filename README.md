@@ -19,14 +19,25 @@ The aim of the project is to develop an ideal model for determining the possibil
 
 ### Machine Learning Models & Training :
 
+-Decision Tree
+Decision trees are widely used models for classification and regression tasks. Essentially, they learn a hierarchy of if/else questions, leading to a decision. Learning a decision tree means learning the sequence of if/else questions that gets us to the true answer most quickly.
+
+![App Screenshot](https://i.imgur.com/xO3AaE0.png)
+
 -Random Forest Classifier
 Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the mean or average prediction of the individual trees is returned.
+
+![App Screenshot](https://i.imgur.com/FJ0eGss.png)
 
 -Multilayer Perceptrons (MLPs): Deep Learning
 The field of artificial neural networks is often just called neural networks or multi-layer perceptrons after perhaps the most useful type of neural network. A perceptron is a single neuron model that was a precursor to larger neural networks.
 
+![App Screenshot](https://i.imgur.com/cvhmQ8V.png)
+
 -Bagging Classifier
 A Bagging classifier is an ensemble meta-estimator that fits base classifiers each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction.
+
+![App Screenshot](https://i.imgur.com/eoq8eAe.png)
 
 
 ## Technologies Used
@@ -37,105 +48,6 @@ A Bagging classifier is an ensemble meta-estimator that fits base classifiers ea
 
 For support, email baftjarjj@gmail.com.
 
-## Screenshots
-
-### Home Page
-![App Screenshot](https://i.imgur.com/xO3AaE0.png)
-
-### Profile
-![App Screenshot](https://i.imgur.com/FJ0eGss.png)
-
-### Rooms
-![App Screenshot](https://i.imgur.com/cvhmQ8V.png)
-
-### Search Rooms
-![App Screenshot](https://i.imgur.com/eoq8eAe.png)
-
-### Create/Edit Rooms
-![App Screenshot](https://i.imgur.com/85m0y9B.png)
-
-### Messages
-![App Screenshot](https://i.imgur.com/IEzA8ec.png)
-
-### Mobile
-![App Screenshot](https://i.imgur.com/DaeTQlg.png)
-
-### Login
-![App Screenshot](https://i.imgur.com/FKxazLi.png)
-
-### Register
-![App Screenshot](https://i.imgur.com/XPt2dKI.png)
-
-### Admin Dashboard
-![App Screenshot](https://i.imgur.com/9J0kXop.png)
-
-### Admin Dashboard GoogleUsers
-![App Screenshot](https://i.imgur.com/JDMOwRq.png)
-
-### Admin Dashboard Rooms
-![App Screenshot](https://i.imgur.com/tIIIuo3.png)
-
-### Admin Dashboard Users
-![App Screenshot](https://i.imgur.com/zeU1Btr.png)
-
-## Figures
-
-### Use Case Diagram 
-![App Screenshot](https://i.imgur.com/miyapk1.png)
-
-### Enity Relationship Diagram 
-![App Screenshot](https://i.imgur.com/hysI7vT.jpg)
-
-### Data Flow Diagram
-![App Screenshot](https://i.imgur.com/0KRa6Tc.png)
-
-### Sequence Diagram For Administrator 
-![App Screenshot](https://i.imgur.com/JBi6Yif.png)
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/baftjarjusufi/estudysphere.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Migrate
-
-```bash
-  python manage.py migrate
-```
-
-Make Migrations
-
-```bash
-  python manage.py makemigrations
-```
-
-Start the server
-
-```bash
-  python manage.py runserver
-```
-
-
-
-
-
-
-
-
 
 ## Roadmap
 
@@ -143,13 +55,8 @@ Start the server
 
 - Incorporating and inviting multiple organizations with customized theme or private personalized rooms with a special code to each of them so people can join , to be accessed all around the world. 
 
-- The application aims to provide users with personalized themes that they can choose from, as well as a wide range of customization options. It offers a direct messaging service that allows users to securely communicate with individuals they are interested in or their friends, based on specific topics or rooms. Additionally, users have the ability to follow others within the web application and receive notifications whenever they create a new room or make a post, keeping them updated on their activities.
-
-- To add tasks for organizations to help their students more for the studying aspect. To add more gamification elements , such as badges , achievements , a ranking leaderboard , to motivate people engagement and foster a competitive learning platform. Incorporating a virtual classroom where people can hop on the video sessions with friends , colleagues , talk , share resources there. To add more supported languages in the platform so to support a wider global audience.
-
 ## Lessons Learned
 
-In conclusion, this project has been a valuable learning experience in Django web development. It allowed me to gain practical knowledge in building a web application that facilitates the creation, management, and interaction of users within a website application. Through this project, I have mastered essential Django concepts, HTML, CSS and Javascript concepts including user authentication, database modeling, form handling, the use of the Django Admin interface, making the front end django friendly , incorporating the back-end with front-end together. 
-
+In conclusion, this project has been a valuable learning experience in Python and Machine learning models in data mining. It allowed me to gain practical knowledge in building a web application that facilitates the manipulation, management, and searches of different data with different data machine existing models techniques. Through this project, I have mastered essential Data Mining concepts, Python.
 
 # Hi, I'm Baftjar! 👋
