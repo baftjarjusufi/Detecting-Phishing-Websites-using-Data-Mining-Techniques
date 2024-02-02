@@ -21,7 +21,7 @@ The aim of the project is to develop an ideal model for determining the possibil
 ![App Screenshot](https://i.imgur.com/PLMf44v.png)
 
 ### Data Preprocessing ;
-![App Screenshot]()
+![App Screenshot](https://i.imgur.com/niLvkMi.png)
 
 ### Visualizing the data ;
 ![App Screenshot](https://i.imgur.com/S10hmGN.png)
@@ -31,22 +31,22 @@ The aim of the project is to develop an ideal model for determining the possibil
 -Decision Tree
 Decision trees are widely used models for classification and regression tasks. Essentially, they learn a hierarchy of if/else questions, leading to a decision. Learning a decision tree means learning the sequence of if/else questions that gets us to the true answer most quickly.
 
-![App Screenshot]()
+![App Screenshot](https://i.imgur.com/sxszzzD.png)
 
 -Random Forest Classifier
 Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the mean or average prediction of the individual trees is returned.
 
-![App Screenshot]()
+![App Screenshot](https://i.imgur.com/l6BL9QC.png)
 
 -Multilayer Perceptrons (MLPs): Deep Learning
 The field of artificial neural networks is often just called neural networks or multi-layer perceptrons after perhaps the most useful type of neural network. A perceptron is a single neuron model that was a precursor to larger neural networks.
 
-![App Screenshot]()
+![App Screenshot](https://i.imgur.com/IBZOUUS.png)
 
 -Bagging Classifier
 A Bagging classifier is an ensemble meta-estimator that fits base classifiers each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction.
 
-![App Screenshot]()
+![App Screenshot](https://i.imgur.com/Levpflh.png)
 
 
 ## Technologies Used
