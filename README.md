@@ -15,7 +15,7 @@ The aim of the project is to develop an ideal model for determining the possibil
 ![App Screenshot](https://i.imgur.com/ldxQXnp.png)
 
 ### Familiarizing with Data ;
-![App Screenshot]()
+![App Screenshot](https://i.imgur.com/BN4wtQ7.png)
 
 ### Splitting the Data ; 
 ![App Screenshot](https://i.imgur.com/PLMf44v.png)
@@ -24,7 +24,7 @@ The aim of the project is to develop an ideal model for determining the possibil
 ![App Screenshot]()
 
 ### Visualizing the data ;
-![App Screenshot]()
+![App Screenshot](https://i.imgur.com/S10hmGN.png)
 
 ### Machine Learning Models & Training :
 
